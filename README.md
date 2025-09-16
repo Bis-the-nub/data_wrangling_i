@@ -1,3 +1,3 @@
 # data_wrangling_i
 
-today's lecture
+today's lecture content
